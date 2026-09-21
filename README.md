@@ -180,7 +180,9 @@ The Generator takes a random noise vector as input and produces a synthetic imag
 <img width="1061" height="675" alt="image" src="https://github.com/user-attachments/assets/5edf6bd9-3a46-4c82-8331-6d8469af1537" />
 <img width="1072" height="912" alt="image" src="https://github.com/user-attachments/assets/3647e46d-98fb-4b94-9006-ce701fe15ba6" />
 
-    
+---
+# COLAB LINK:https://colab.research.google.com/drive/1ovHXmJ3rqu1j-ty2otcqZeT3V4fMrbUf?usp=sharing
+---   
 
 
 ## Conclusion:
