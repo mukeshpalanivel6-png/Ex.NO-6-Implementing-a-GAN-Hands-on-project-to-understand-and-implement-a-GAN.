@@ -173,6 +173,13 @@ The Generator takes a random noise vector as input and produces a synthetic imag
 
 <img width="2048" height="1422" alt="image" src="https://github.com/user-attachments/assets/81702f28-037c-44af-964a-3bb0adc1f0de" />
 
+---
+
+# output:
+<img width="997" height="896" alt="image" src="https://github.com/user-attachments/assets/9e1c3981-2974-46a7-bd3c-1a0cc01e6c39" />
+<img width="1061" height="675" alt="image" src="https://github.com/user-attachments/assets/5edf6bd9-3a46-4c82-8331-6d8469af1537" />
+<img width="1072" height="912" alt="image" src="https://github.com/user-attachments/assets/3647e46d-98fb-4b94-9006-ce701fe15ba6" />
+
     
 
 
